@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=deepakstark01&show_icons=true&theme=tokyonight" alt="deepakstark01's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakstark01&theme=dark)" alt="deepakstark01's GitHub streak" width="400"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshadeepak&layout=compact) [![@darakhshadeepak's Holopin board](https://holopin.io/api/user/board?user=darakhshadeepak)](https://holopin.io/@darakhshadeepak)
+
 
 
 ---
