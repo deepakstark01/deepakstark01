@@ -24,7 +24,9 @@
 <a href="https://github.com/deepakstark01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/deepakstark01" height="30" width="40" /></
 <a href="https://linkedin.com/in/deepakstark01-08032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakstark01-08032003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepak11_0209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak" height="30" width="40" /></a>
-
+---
+[![An image of @rohitadarsh16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitadarsh16)](https://holopin.io/@rohitadarsh16
+---
  
 </p>
 
