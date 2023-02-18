@@ -17,9 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstark01&show_icons=true&theme=tokyonight" alt="Deepak's GitHub stats" width="300"/>
 
 ---
-<audio autoplay>
-  <source src="https://mobcup.net/d/qnacqoq7/mp3" type="audio/mp3">
-</audio>
 
 ### Socials:
 
