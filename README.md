@@ -4,7 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="coding monke" width="380"/>
 
-- 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
+- 😄 I am a Data scientist**.
+- email rohit45deepak@gmail.com
 - 🌱 I’m currently doing online freelancing work .
 - 🎯 Looking forward to contribute to open source more.
 
