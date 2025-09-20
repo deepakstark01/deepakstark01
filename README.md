@@ -6,7 +6,7 @@
 
 - 😄 I am a Data scientist**.
 - email rohit45deepak@gmail.com
-- 🌱 I’m currently doing online freelancing work .
+- 🌱 I’m currently doing coding .
 - 🎯 Looking forward to contribute to open source more.
 
 ***
