@@ -27,8 +27,7 @@
 <a href="https://www.codechef.com/users/deepak11_0209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak" height="30" width="40" /></a>
 
 ---
-
-[![An image of @Deepak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitadarsh16)](https://holopin.io/@rohitadarsh16)
+[![An image of @darakhshadeepak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darakhshadeepak)](https://holopin.io/@darakhshadeepak)
  
 </p>
 
